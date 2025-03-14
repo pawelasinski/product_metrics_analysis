@@ -72,9 +72,8 @@ This metric assesses the regularity of product usage.
 Percentage of users returning to the product after their first use.
 
 **Retention N-day Formula:**
-$$
-\text{Retention}\,(N\,\text{day}) = \frac{\text{Number of users who returned on day N}}{\text{Number of new users}} \times 100\%
-$$
+
+$$\text{Retention}\,(N\,\text{day}) = \frac{\text{Number of users who returned on day N}}{\text{Number of new users}} \times 100\%$$
 
 - **1-day retention** — reflects UI/UX issues
 - **7-day retention** — indicates engagement potential
@@ -85,9 +84,8 @@ $$
 Percentage of users who stopped using the product over a specific period.
 
 **Formula:**
-$$
-\text{Churn Rate} = \frac{\text{Number of lost customers over a period}}{\text{Total number of customers at the start of the period}} \times 100\%
-$$
+
+$$\text{Churn Rate} = \frac{\text{Number of lost customers over a period}}{\text{Total number of customers at the start of the period}} \times 100\%$$
 
 Lower churn rates are preferable.
 
@@ -100,18 +98,16 @@ Lower churn rates are preferable.
 Average revenue per user (including both paying and non-paying users).
 
 **Formula:**
-$$
-\text{ARPU} = \frac{\text{Revenue}}{\text{Total number of users}}
-$$
+
+$$\text{ARPU} = \frac{\text{Revenue}}{\text{Total number of users}}$$
 
 ### 9. ARPPU (Average Revenue Per Paying User)
 
 Average revenue per paying user.
 
 **Formula:**
-$$
-\text{ARPPU} = \frac{\text{Revenue}}{\text{Number of paying users}}
-$$
+
+$$\text{ARPPU} = \frac{\text{Revenue}}{\text{Number of paying users}}$$
 
 These metrics help understand the product's monetization status and identify potential segments for revenue growth.
 
@@ -120,9 +116,8 @@ These metrics help understand the product's monetization status and identify pot
 Average revenue generated from a user over their entire interaction period with the product.
 
 **Formula:**
-$$
-\text{LTV} = \text{ARPU} \times \text{Lifetime}
-$$
+
+$$\text{LTV} = \text{ARPU} \times \text{Lifetime}$$
 
 **Lifetime** — the duration from the start to the end of product usage.
 
@@ -131,9 +126,8 @@ $$
 Cost of acquiring a single user.
 
 **Key Ratio:**
-$$
-\text{LTV} > \text{CAC}
-$$
+
+$$\text{LTV} > \text{CAC}$$
 
 This is essential for the product's profitable growth.
 
@@ -150,9 +144,8 @@ Cost per specific action (registration, first purchase, etc.).
 Proportion of users who performed a target action (purchase).
 
 **Formula:**
-$$
-\text{Conversion} = \frac{\text{Number of users who performed the action}}{\text{Total number of users}} \times 100\%
-$$
+
+$$\text{Conversion} = \frac{\text{Number of users who performed the action}}{\text{Total number of users}} \times 100\%$$
 
 ### 14. First Purchase
 
@@ -173,9 +166,8 @@ $$
 Indicator of return on investment.
 
 **Formula:**
-$$
-\text{ROI} = \frac{\text{Revenue} - \text{Costs}}{\text{Costs}} \times 100\%
-$$
+
+$$\text{ROI} = \frac{\text{Revenue} - \text{Costs}}{\text{Costs}} \times 100\%$$
 
 Reflects the efficiency of spending on user acquisition and retention.
 
