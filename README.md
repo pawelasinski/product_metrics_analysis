@@ -52,9 +52,8 @@ Pawel Asinski (pawel.asinski@gmail.com)
 - **MAU (Monthly Active Users)** — users engaging with the product monthly
 
 **Sticky Factor Formula:**
-$$
-\text{Sticky Factor} = \frac{\text{DAU}}{\text{MAU}} \times 100\%
-$$
+
+$$\text{Sticky Factor} = \frac{\text{DAU}}{\text{MAU}} \times 100\%$$
 
 This metric assesses the regularity of product usage.
 
