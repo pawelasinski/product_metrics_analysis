@@ -73,7 +73,7 @@ Percentage of users returning to the product after their first use.
 
 **Retention N-day Formula:**
 
-$$\text{Retention}\,(N\,\text{day}) = \frac{\text{Number of users who returned on day N}}{\text{Number of new users}} \times 100\%$$
+$$\text{Retention}\ (N\ \text{day}) = \frac{\text{Number of users who returned on day N}}{\text{Number of new users}} \times 100\%$$
 
 - **1-day retention** — reflects UI/UX issues
 - **7-day retention** — indicates engagement potential
