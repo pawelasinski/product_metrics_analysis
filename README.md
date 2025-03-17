@@ -10,8 +10,7 @@ This repo contains examples of **analyzing** some **product metrics** being a **
 
 ## Possible Project Extensions
 
-- Refine the analyses considering new insights.
-- Refine the project description.
+- ...
 
 ## Author
 
