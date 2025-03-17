@@ -1,6 +1,6 @@
 # Product Metrics Analysis
 
-This repo contains examples of **analyzing** some **product metrics** being a **data analyst**.
+This repo contains examples of **analyzing** some **product metrics** being a **data scientist/analyst**.
 
 ## Features
 
