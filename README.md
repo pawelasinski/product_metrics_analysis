@@ -284,4 +284,4 @@ Understanding and correctly applying traffic attribution models allows for more 
 
 - **Definition:** A measure used to evaluate the efficiency or profitability of an investment relative to its cost.  
 - **Formula:**  
-  $$\text{ROI} = \left(\frac{\text{Net Profit}}{\text{Investment Cost}}\right) \times 100\%$$
+$$\text{ROI} = \left(\frac{\text{Net Profit}}{\text{Investment Cost}}\right) \times 100\%$$
