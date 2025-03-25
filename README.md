@@ -210,14 +210,16 @@ Understanding and correctly applying traffic attribution models allows for more 
 - **Definition:** Total income generated from selling goods or services. It is the "top line" figure in the income statement.  
 - **Example:** Selling 100 units at \$50 each results in a revenue of \$5,000.  
 - **Formula:**  
-  $$\text{Revenue} = \text{Quantity Sold} \times \text{Selling Price per Unit}$$
+
+$$\text{Revenue} = \text{Quantity Sold} \times \text{Selling Price per Unit}$$
 
 ### **2. Cost of Goods Sold (COGS)**
 
 - **Definition:** Direct costs attributable to the production or purchase of the goods sold.
 - **Example:** If each unit costs \$20, then for 100 units, COGS = \$2,000.
 - **Formula:**
-  $$\text{COGS} = \text{Quantity Sold} \times \text{Cost per Unit}$$
+
+$$\text{COGS} = \text{Quantity Sold} \times \text{Cost per Unit}$$
 
 ---
 
@@ -228,14 +230,16 @@ Understanding and correctly applying traffic attribution models allows for more 
 - **Definition:** The difference between the selling price and the cost per unit.  
 - **Example:** For a product sold at \$50 with a cost of \$20, the margin is \$30.  
 - **Formula:**
-  $$\text{Margin} = \text{Price} - \text{Cost}$$
+
+$$\text{Margin} = \text{Price} - \text{Cost}$$
 
 ### **4. Profit Margin (Gross Margin Percentage)**
 
 - **Definition:** The margin expressed as a percentage of the selling price, indicating how much of every dollar earned translates into profit (before other expenses).  
 - **Example:** With a margin of \$30 on a \$50 sale, the profit margin is 60%.  
 - **Formula:**
-  $$\text{Profit Margin} = \left(\frac{\text{Margin}}{\text{Price}}\right) \times 100\%$$
+
+$$\text{Profit Margin} = \left(\frac{\text{Margin}}{\text{Price}}\right) \times 100\%$$
 
 ---
 
@@ -245,19 +249,22 @@ Understanding and correctly applying traffic attribution models allows for more 
 
 - **Definition:** Profit remaining after subtracting COGS from revenue, reflecting earnings from core business activities before operating costs.  
 - **Formula:**  
-  $$\text{Gross Profit} = \text{Revenue} - \text{COGS}$$
+
+$$\text{Gross Profit} = \text{Revenue} - \text{COGS}$$
 
 ### **6. Operating Profit**
 
 - **Definition:** Earnings after deducting operating expenses (like wages, rent, and advertising) from gross profit.  
 - **Formula:**  
-  $$\text{Operating Profit} = \text{Gross Profit} - \text{Operating Expenses}$$
+
+$$\text{Operating Profit} = \text{Gross Profit} - \text{Operating Expenses}$$
 
 ### **7. Net Profit**
 
 - **Definition:** The "bottom line"—the profit remaining after all expenses, including operating expenses, taxes, and other costs, have been deducted.  
 - **Formula:**  
-  $$\text{Net Profit} = \text{Operating Profit} - \text{Taxes} - \text{Other Expenses}$$
+
+$$\text{Net Profit} = \text{Operating Profit} - \text{Taxes} - \text{Other Expenses}$$
 
 ---
 
@@ -267,7 +274,8 @@ Understanding and correctly applying traffic attribution models allows for more 
 
 - **Definition:** A measure of a company's operating performance that looks at earnings before non-operating expenses and non-cash charges. It provides an insight into the business’s operational efficiency.  
 - **Formula:**  
-  $$\text{EBITDA} = \text{Operating Profit} + \text{Depreciation} + \text{Amortization}$$
+
+$$\text{EBITDA} = \text{Operating Profit} + \text{Depreciation} + \text{Amortization}$$
 
 ### **9. Operating Cash Flow**  
 
@@ -278,7 +286,8 @@ Understanding and correctly applying traffic attribution models allows for more 
 
 - **Definition:** The portion of a company’s profit allocated to each outstanding share of common stock. It is an indicator of a company’s profitability on a per-share basis.  
 - **Formula:**  
-  $$\text{EPS} = \frac{\text{Net Profit}}{\text{Number of Outstanding Shares}}$$
+
+$$\text{EPS} = \frac{\text{Net Profit}}{\text{Number of Outstanding Shares}}$$
 
 ### **11. Return on Investment (ROI)**
 
